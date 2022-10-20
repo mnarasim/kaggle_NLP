@@ -1,4 +1,4 @@
-# kaggle_NLP
+# NLP
 
 The overall objective is to predict if a comment falls into these categories:
 
